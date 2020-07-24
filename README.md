@@ -2,9 +2,9 @@
 <h3 align="center">
 Web and mobile developer</h3>
 
-- 🔭 I’m currently working on freelas [rafaeloliveira.tech](https://rafaeloliveira.tech/)
+- 🔭 I’m currently working on freelas [**rafaeloliveira.tech**](https://rafaeloliveira.tech/)
 
-- 👨‍💻 All of my projects are available at [github.com/rafamoliv](https://github.com/rafamoliv)
+- 👨‍💻 All of my projects are available at [**github.com/rafamoliv**](https://github.com/rafamoliv)
 
 - 💬 Ask me about the languages **JavaScript, HTML, CSS, ABAP** and the framework's **Wordpress, WooCommerce, Node.js, Bootstrap4, Flutter**
 
