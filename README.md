@@ -8,7 +8,7 @@ Web and mobile developer</h3>
 
 - 💬 Ask me about the languages **JavaScript, TS, CSS, ABAP** and the framework's **Wordpress, WooCommerce, React, ReactNative, Node.js, Bootstrap4, Flutter**
 
-- 📫 How to reach me **dev@rafaeloliveira.tech**
+- 📫 How to reach me **rafaoliv.ti@gmail.com**
 
 - ⚡ Fun fact **Smile 😜**
 
