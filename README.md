@@ -13,7 +13,8 @@ Web and mobile developer</h3>
 - ⚡ Fun fact **Smile 😜**
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafamoliv&show_icons=true" alt="rafamoliv" /> </p> -->
-<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoliv&layout=compact&hide=php" /> </p>
+<!-- <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoliv&layout=compact&hide=php" /> </p> -->
+
 
 <p align="center">
 <a href="https://linkedin.com/in/rafamoliv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafamoliv" height="20" width="20" /></a>
@@ -21,5 +22,3 @@ Web and mobile developer</h3>
 <a href="https://www.facebook.com/rafamoliv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafamoliv" height="20" width="20" /></a>
 <a href="https://www.instagram.com/_rafamoliv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rafamoliv" height="20" width="20" /></a>
 </p>
-
-
