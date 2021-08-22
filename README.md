@@ -6,7 +6,7 @@ Web and mobile developer</h3>
 
 - 👨‍💻 All of my projects are available at [**github.com/rafamoliv**](https://github.com/rafamoliv)
 
-- 💬 Ask me about the languages **JavaScript, TS, CSS, ABAP** and the framework's **Wordpress, WooCommerce, React, ReactNative, Node.js, Bootstrap4, Flutter**
+- 💬 Ask me about the languages **JS, TS, HTML, CSS e ABAP** and the framework's **ReactJS, ReactNative, AngularJS, GraphQL, Node.js, Wordpress, WooCommerce e Bootstrap4**
 
 - 📫 How to reach me **rafaoliv.ti@gmail.com**
 
