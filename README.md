@@ -2,11 +2,9 @@
 <h3 align="center">
 Web and mobile developer</h3>
 
-- 🔭 I’m currently working on freelas [**rafaeloliveira.tech**](https://rafaeloliveira.tech/)
-
 - 👨‍💻 All of my projects are available at [**github.com/rafamoliv**](https://github.com/rafamoliv)
 
-- 💬 Ask me about the languages **JS, TS, HTML, CSS e ABAP** and the framework's **ReactJS, ReactNative, AngularJS, GraphQL, Node.js, Wordpress, WooCommerce e Bootstrap4**
+- 💬 Ask me about **JS, TS, ReactJS, ReactNative, NextJS, GraphQL, Node.js, SASS, Styled-Components, Unity Tests, Agile Methodologies, Storybook, Tailwind, Git, HTML, CSS e Bootstrap**
 
 - 📫 How to reach me **rafaoliv.ti@gmail.com**
 
