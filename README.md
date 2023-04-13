@@ -6,7 +6,7 @@ Web and mobile developer</h3>
 
 - 👨‍💻 All of my projects are available at [**rafamoliv**](https://github.com/rafamoliv) and study projects at [**RafaelOliveiraLabs**](https://github.com/RafaelOliveiraLabs)
 
-- 💬 Ask me about **JS, TS, ReactJS, ReactNative, NextJS, GraphQL, Node.js, SASS, Styled-Components, Unity Tests, Agile Methodologies, Storybook, Tailwind, Git, HTML, CSS e Bootstrap**
+- 💬 Ask me about **JS, TS, PHP, C#, ReactJS, ReactNative, NextJS, GraphQL, Node.js, SASS, Styled-Components, Unity Tests, Agile Methodologies, Storybook, Tailwind, Git, HTML, CSS e Bootstrap**
 
 - ⚡ Fun fact **Smile 😜**
 
