@@ -11,7 +11,7 @@ Web and mobile developer</h3>
 - ⚡ Fun fact **Smile 😜**
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafamoliv&show_icons=true" alt="rafamoliv" /> </p> -->
-<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoliv&layout=compact&hide=php" /> </p>
+<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoliv&layout=compact&hide=php&theme=dark" /> </p>
 
 
 <p align="center">
